@@ -14,7 +14,7 @@ look at the `Window` menu
 
 
 ## Test
-Work fine on my OSX 10.10.x, if any issue please
+Work fine on my OSX 10.10.x, if any issues please [post](https://github.com/rwu823/afloat/issues/new) it.
 
 ## Thanks
 [SIMBL](http://www.culater.net/software/SIMBL/SIMBL.php)
