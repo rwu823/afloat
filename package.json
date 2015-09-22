@@ -10,5 +10,17 @@
   "license": "MIT",
   "dependencies": {
     "gulp-zip": "^3.0.2"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwu823/afloat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rwu823/afloat/issues"
+  },
+  "homepage": "https://github.com/rwu823/afloat#readme"
 }
