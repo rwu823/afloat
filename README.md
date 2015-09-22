@@ -6,4 +6,5 @@ Quickly install `afloat` on OSX
 
 ## Thanks
 [SIMBL](http://www.culater.net/software/SIMBL/SIMBL.php)
+
 [vjt/afloat](https://github.com/vjt/afloat)
