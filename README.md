@@ -1,5 +1,6 @@
 # Afloat Installer
 `Afloat` is **always on top** solution on OSX, you can follow this post understand what it do.
+
 [Always on top in MacOS Yosemite](http://www.perfectlyrandom.org/2015/01/31/always-on-top-in-macos-yosemite/)
 
 ## Installation
