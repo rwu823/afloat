@@ -1,7 +1,10 @@
 # Afloat Installer
-Quickly install `afloat` on OSX
+`Afloat` is **always on top** solution on OSX, you can follow this post understand what it do.
+[Always on top in MacOS Yosemite](http://www.perfectlyrandom.org/2015/01/31/always-on-top-in-macos-yosemite/)
 
 ## Installation
+open your terminal, and copy paste below:
+
     curl https://raw.githubusercontent.com/rwu823/aflot/master/install.sh | sh
 
 ## Quit and Re-open any app
