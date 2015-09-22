@@ -1,4 +1,4 @@
-# Afloat Instller
+# Afloat Installer
 Quickly install `afloat` on OSX
 
 ## Installation
