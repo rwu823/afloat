@@ -11,5 +11,5 @@ mkdir -p ~/Library/Application\ Support/SIMBL/Plugins &&
 mv ./Afloat.bundle ~/Library/Application\ Support/SIMBL/Plugins;
 
 # Clean the working directory after installing afloat.
-rm rm SIMBL-0.9.9.pkg
+rm SIMBL-0.9.9.pkg
 rm installer-afloat.zip
