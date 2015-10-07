@@ -1,5 +1,5 @@
 # Afloat Installer
-![](https://img.shields.io/badge/OS%20X-%3E10.10.x-green.svg)
+![](https://img.shields.io/badge/OS%20X-%3E=10.10.x-green.svg)
 
 `Afloat` is **always on top** solution on OSX, you can follow this post understand what is it do.
 
