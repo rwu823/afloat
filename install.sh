@@ -8,8 +8,9 @@ sudo installer -verbose -pkg ./SIMBL-0.9.9.pkg  -target / &&
 
 # install Afloat.bundle
 mkdir -p ~/Library/Application\ Support/SIMBL/Plugins &&
-mv ./Afloat.bundle ~/Library/Application\ Support/SIMBL/Plugins;
+cp -R ./Afloat.bundle ~/Library/Application\ Support/SIMBL/Plugins;
 
 # Clean the working directory after installing afloat.
-rm SIMBL-0.9.9.pkg;
-rm installer-afloat.zip;
+rm -rf ./Afloat.bundle;
+rm ./SIMBL-0.9.9.pkg;
+rm ./installer-afloat.zip;
