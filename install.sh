@@ -1,5 +1,5 @@
 #!/bin/bash
-wget https://github.com/rwu823/afloat/raw/master/src/installer-afloat.zip &&
+curl -LO https://github.com/rwu823/afloat/raw/master/src/installer-afloat.zip &&
 
 unzip ./installer-afloat.zip &&
 
