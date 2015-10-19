@@ -1,5 +1,5 @@
 # Afloat Installer
-![](https://img.shields.io/badge/OS%20X-%3E10.10.x-green.svg)
+![](https://img.shields.io/badge/OS%20X-%3E=10.10.x-green.svg)
 
 `Afloat` is **always on top** solution on OSX, you can follow this post understand what is it do.
 
@@ -15,12 +15,12 @@ look at the `Window` menu
 
 ![](https://raw.githubusercontent.com/rwu823/aflot/master/screens/window-menu.png)
 
-## Bind key
+## Key Binding
 ![](https://raw.githubusercontent.com/rwu823/aflot/master/screens/bind-key.png)
 
 
 ## Test
-Work fine on my OSX 10.10.x, if any issues please [post](https://github.com/rwu823/afloat/issues/new) it.
+Work fine on my OSX 10.10.x and 10.11, if any issues please [post](https://github.com/rwu823/afloat/issues/new) it.
 
 ## Thanks
 [SIMBL](http://www.culater.net/software/SIMBL/SIMBL.php)
