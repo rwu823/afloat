@@ -6,7 +6,7 @@
 [Always on top in MacOS Yosemite](http://www.perfectlyrandom.org/2015/01/31/always-on-top-in-macos-yosemite/)
 
 ## Installation
-open your terminal, and copy paste below:
+open your terminal then copy and paste below:
 
     curl https://raw.githubusercontent.com/rwu823/aflot/master/install.sh | sh
 
