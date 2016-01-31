@@ -10,8 +10,8 @@ open your terminal then copy and paste below:
 
     curl https://raw.githubusercontent.com/rwu823/aflot/master/install.sh | sh
 
-## Quit and Re-open any app
-look at the `Window` menu
+## Reboot
+Congratulation!! look at the `Window` menu
 
 ![](https://raw.githubusercontent.com/rwu823/aflot/master/screens/window-menu.png)
 
