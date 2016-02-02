@@ -9,6 +9,8 @@
 open your terminal then copy and paste below:
 
     curl https://raw.githubusercontent.com/rwu823/aflot/master/install.sh | sh
+    
+input your password:
 
 ## Reboot
 Congratulation!! look at the `Window` menu
