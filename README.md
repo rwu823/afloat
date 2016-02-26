@@ -1,7 +1,7 @@
 # Afloat Installer
 ![](https://img.shields.io/badge/OS%20X-%3E=10.10.x-green.svg)
 
-`Afloat` is **always on top** solution on OSX, you can follow this post understand what is it do.
+`Afloat` is **always on top** solution on OSX, you can follow this post understand what does it do.
 
 [Always on top in MacOS Yosemite](http://www.perfectlyrandom.org/2015/01/31/always-on-top-in-macos-yosemite/)
 
@@ -10,7 +10,7 @@ open your terminal then copy and paste below:
 
     curl https://raw.githubusercontent.com/rwu823/aflot/master/install.sh | sh
     
-input your password:
+`input your password:`
 
 ## Reboot
 Congratulation!! look at the `Window` menu
