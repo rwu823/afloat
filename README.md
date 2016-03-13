@@ -8,7 +8,7 @@
 ## Installation
 open your terminal then copy and paste below:
 
-    curl https://raw.githubusercontent.com/rwu823/aflot/master/install.sh | sh
+    curl https://raw.githubusercontent.com/rwu823/afloat/master/install.sh | sh
     
 ****`input your password`** ** ●●●●●●
 
