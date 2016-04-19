@@ -1,4 +1,6 @@
 # Afloat Installer
+
+[![Join the chat at https://gitter.im/rwu823/afloat](https://badges.gitter.im/rwu823/afloat.svg)](https://gitter.im/rwu823/afloat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![](https://img.shields.io/badge/OS%20X-%3E=10.10.x-green.svg)
 
 `Afloat` is **always on top** solution on OSX, you can follow this post understand what does it do.
