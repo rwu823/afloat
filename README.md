@@ -5,6 +5,9 @@
 
 [Always on top in MacOS Yosemite](http://www.perfectlyrandom.org/2015/01/31/always-on-top-in-macos-yosemite/)
 
+## macOS Sierra Solution
+    curl https://raw.githubusercontent.com/rwu823/afloat/sierra/install.sh | sh
+
 ## Installation
 open your terminal then copy and paste below:
 
