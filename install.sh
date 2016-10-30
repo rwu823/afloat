@@ -1,16 +1,11 @@
 #!/bin/bash
-curl -LO https://github.com/rwu823/afloat/raw/master/src/installer-afloat.zip &&
+curl -LO https://github.com/rwu823/afloat/raw/sierra/dist/afloat-installer.zip &&
 
-unzip ./installer-afloat.zip &&
-
-# install SIMBL
-sudo installer -verbose -pkg ./SIMBL-0.9.9.pkg  -target / &&
+unzip ./afloat-installer.zip -d ./SIMBL &&
 
 # install Afloat.bundle
-mkdir -p ~/Library/Application\ Support/SIMBL/Plugins &&
-cp -R ./Afloat.bundle ~/Library/Application\ Support/SIMBL/Plugins;
+sudo cp -R ./SIMBL /Library/Application\ Support/
 
 # Clean the working directory after installing afloat.
-rm -rf ./Afloat.bundle;
-rm ./SIMBL-0.9.9.pkg;
-rm ./installer-afloat.zip;
+rm -rf ./SIMBL
+rm ./afloat-installer.zip;

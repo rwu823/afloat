@@ -4,12 +4,15 @@
   "description": "Quickly install SIMBL and Afloat on OSX",
   "main": "index.js",
   "scripts": {
+    "zip": "node ./scripts/zip",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rocky Wu <rocky823@gamil.com>",
   "license": "MIT",
   "dependencies": {
-    "gulp-zip": "^3.0.2"
+    "gulp": "^3.9.1",
+    "gulp-size": "^2.1.0",
+    "gulp-zip": "^3.2.0"
   },
   "directories": {
     "test": "tests"
